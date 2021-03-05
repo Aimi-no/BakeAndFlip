@@ -14,7 +14,7 @@ from bpy_extras.object_utils import AddObjectHelper, object_data_add
 from mathutils import Vector
 import sys
 
-# params: path_to_ply_model, path_to_output_PNG
+# params: path_to_ply_model, path_to_output_image
 
 def register():
     argv = sys.argv
